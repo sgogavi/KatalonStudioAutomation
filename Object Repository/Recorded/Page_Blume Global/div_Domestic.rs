@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Domestic</name>
+   <tag></tag>
+   <elementGuidId>60e40997-7b00-4b81-b6ff-2bcf927d9c89</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[3]/div[3]/div/div/div/div/div[2]/div/div[3]/div/div[2]/div/div/div[2]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(2) > div.blume-definition-value</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8ca73bda-3302-4317-9f8d-59976093e493</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>blume-definition-value</value>
+      <webElementGuid>9d124fdb-47f5-42c5-b4e8-1b4e771abe2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Domestic</value>
+      <webElementGuid>d5ed875e-8c39-4d0a-84a8-e3845e230b92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;application 
+       
+      false&quot;]/div[@class=&quot;mbe-micro-ui&quot;]/div[1]/div[@class=&quot;mbe_micro_ui&quot;]/div[@class=&quot;ShipmentDetails_root__C50D_&quot;]/div[2]/div[@class=&quot;ShipmentDetails_shipmentDetails__3eg1I&quot;]/div[@class=&quot;styles_root__2IeCJ&quot;]/div[@class=&quot;mbe-seed-mbe-mui85 mbe-seed-mbe-mui84 actionable-card_card__3JWgB inactive actionable-card_cardWhite__1j9gW mbe-seed-mbe-mui89 mbe-seed-mbe-mui86&quot;]/div[@class=&quot;mbe-seed-mbe-mui143&quot;]/div[1]/div[@class=&quot;mbe-seed-mbe-mui144 mbe-seed-mbe-mui146&quot;]/div[2]/div[@class=&quot;blume-definition-value&quot;]</value>
+      <webElementGuid>26b48bfc-7ac7-416c-bf69-31b9aa8c090d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[3]/div[3]/div/div/div/div/div[2]/div/div[3]/div/div[2]/div/div/div[2]/div[2]</value>
+      <webElementGuid>7b329429-f471-438f-932a-3aef6e3835cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipment Type'])[2]/following::div[1]</value>
+      <webElementGuid>bc8c39a5-b868-48ea-8746-6137c28799c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trip Type'])[1]/preceding::div[1]</value>
+      <webElementGuid>3c8e865d-a8a8-4d89-adb4-f740d5c977ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[3]/div/div[2]/div/div/div[2]/div[2]</value>
+      <webElementGuid>d6762cc2-ba00-4f7a-9fc8-3f3ae146394c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Domestic' or . = 'Domestic')]</value>
+      <webElementGuid>a40fdad2-4462-439a-8330-39291e7d131f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

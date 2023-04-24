@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Shipment_k-textbox kendoSearchBox</name>
+   <tag></tag>
+   <elementGuidId>692b9839-03f3-4b8e-a77c-d6a7e902421d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.k-textbox.kendoSearchBox</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>8b6f2a1c-3a65-4ad3-90d4-c0f81a0c1d0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-textbox kendoSearchBox</value>
+      <webElementGuid>ed5ea2b3-9247-48ec-a88c-9d48d5f70d01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Search...</value>
+      <webElementGuid>7d99a27a-10d0-48fe-83a1-1cb088693d88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;blume-grid-w&quot;)/div[@class=&quot;action-container&quot;]/div[@class=&quot;flex-center row1&quot;]/div[@class=&quot;gridSearchContainer&quot;]/div[@class=&quot;kendo-search-box-container kendo-search-box-container-active&quot;]/input[@class=&quot;k-textbox kendoSearchBox&quot;]</value>
+      <webElementGuid>e8d6ce5b-aea7-4ca1-8cc7-308752a03395</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='']</value>
+      <webElementGuid>31c46938-e020-455d-a0c9-a89f48b68dc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='blume-grid-w']/div/div[2]/div/div/input</value>
+      <webElementGuid>bcb21718-f32d-4eb1-87c5-b2087d6bd9b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/input</value>
+      <webElementGuid>888346fd-e42e-40b0-8911-6841d9a2d3f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Search...']</value>
+      <webElementGuid>eee9e2d2-8542-4959-b6e3-b0f5945b56bc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

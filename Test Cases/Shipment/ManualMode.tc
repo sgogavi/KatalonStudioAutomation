@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ManualMode</name>
+   <tag>@SmokeTesting</tag>
+   <comment></comment>
+   <testCaseGuid>a33e4519-77f8-4086-894e-9bed21772a07</testCaseGuid>
+</TestCaseEntity>

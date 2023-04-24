@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_DRAY</name>
+   <tag></tag>
+   <elementGuidId>5b0226b4-d03c-4daf-8a8e-eefee9384072</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[3]/div[3]/div/div/div/div/div[2]/div/div[3]/div/div[2]/div/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.blume-definition-value</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b4a2c1ca-55a8-4dd7-9779-aa013915f0a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>blume-definition-value</value>
+      <webElementGuid>918c7544-e410-4020-9c29-c46f6ff61a31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> DRAY</value>
+      <webElementGuid>d0b62ec8-82ed-4ae0-af6e-4b653a87c735</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;application 
+       
+      false&quot;]/div[@class=&quot;mbe-micro-ui&quot;]/div[1]/div[@class=&quot;mbe_micro_ui&quot;]/div[@class=&quot;ShipmentDetails_root__C50D_&quot;]/div[2]/div[@class=&quot;ShipmentDetails_shipmentDetails__3eg1I&quot;]/div[@class=&quot;styles_root__2IeCJ&quot;]/div[@class=&quot;mbe-seed-mbe-mui96 mbe-seed-mbe-mui95 actionable-card_card__3JWgB inactive actionable-card_cardWhite__1j9gW mbe-seed-mbe-mui100 mbe-seed-mbe-mui97&quot;]/div[@class=&quot;mbe-seed-mbe-mui154&quot;]/div[1]/div[@class=&quot;mbe-seed-mbe-mui155 mbe-seed-mbe-mui157&quot;]/div[1]/div[@class=&quot;blume-definition-value&quot;]</value>
+      <webElementGuid>3e9eba11-08f3-4c8c-8edd-17f9c605c0ef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[3]/div[3]/div/div/div/div/div[2]/div/div[3]/div/div[2]/div/div/div/div[2]</value>
+      <webElementGuid>d38735e6-740b-4548-b5ca-8ae354e64217</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mode'])[2]/following::div[1]</value>
+      <webElementGuid>abfb2388-3a24-49cb-9366-8aed16603763</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='---'])[19]/following::div[14]</value>
+      <webElementGuid>cc22e597-6927-4a2c-addd-a3ae5d6ca374</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipment Type'])[2]/preceding::div[1]</value>
+      <webElementGuid>906e7892-16c7-41e5-b95a-fd87df7ea853</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Domestic'])[2]/preceding::div[2]</value>
+      <webElementGuid>3722e000-abee-477f-8bd1-e6a73c67f1ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[3]/div/div[2]/div/div/div/div[2]</value>
+      <webElementGuid>68aad0c0-b741-4032-b282-ac6fe583ec31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' DRAY' or . = ' DRAY')]</value>
+      <webElementGuid>320945c3-11cc-49a2-8c8a-a7aedebbd624</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
