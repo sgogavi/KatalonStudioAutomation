@@ -45,8 +45,6 @@ WebUI.click(findTestObject('Recorded/Page_Blume Global/svg_Shipment_mbe-seed-mbe
 
 WebUI.doubleClick(findTestObject('Object Repository/Recorded/Page_Blume Global/td_SHIP42478287SU10'))
 
-WebUI.waitForPageLoad(200)
-
 WebUI.acceptAlert()
 
 WebUI.scrollToElement(findTestObject('Page_Blume Global/div_DRAY (1)'), 0)

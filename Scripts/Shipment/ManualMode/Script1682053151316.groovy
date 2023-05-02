@@ -17,7 +17,13 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WS.sendRequest(findTestObject('Shipment'))
+GlobalVariable.shipmentNumber = CustomKeywords.'utils.com.CustomFunctions.randomShipmentNumberGenerator'()
+
+println("Shipment Number:"+GlobalVariable.shipmentNumber)
+
+response = WS.sendRequest(findTestObject('Shipment'))
+
+WS.verifyElementPropertyValue(response, 'status', 'SUCCESS')
 
 WebUI.openBrowser('')
 
@@ -58,3 +64,4 @@ WebUI.scrollToElement(findTestObject('Page_Blume Global/div_Domestic (1)'), 10)
 WebUI.verifyElementText(findTestObject('Page_Blume Global/div_Domestic (1)'), 'Domestic')
 
 WebUI.closeBrowser()
+

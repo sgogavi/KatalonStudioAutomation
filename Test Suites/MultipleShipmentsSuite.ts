@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>MultipleShipmentsSuite</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>4d0f990b-9374-46ad-9368-190cc516c1c4</testSuiteGuid>
+   <testCaseLink>
+      <guid>da1cf0ef-f46e-4e9f-9e75-6637cbd3845d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Shipment/ShipmentCreationAndValidationInDB</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>2664c817-28dc-4604-858b-28210a146ad9</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/data1</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>2664c817-28dc-4604-858b-28210a146ad9</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Shipment_Number</value>
+         <variableId>4ce86715-4d77-42bb-a847-42938aedbfb5</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>2664c817-28dc-4604-858b-28210a146ad9</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>BOL_Number</value>
+         <variableId>0fba679d-ae85-40d6-bf04-3c6fa0171cc8</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>2664c817-28dc-4604-858b-28210a146ad9</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Booking_Number</value>
+         <variableId>7e9e8b4c-c7e1-47f4-b48d-4b8a40a11757</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>2664c817-28dc-4604-858b-28210a146ad9</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Container_Number</value>
+         <variableId>d586893c-70df-405f-bdf8-b017aea82ad0</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>SingleShipmenSuite</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>7e463535-06b3-4b93-aaf8-86a667af9fcb</testSuiteGuid>
+   <testCaseLink>
+      <guid>c33877af-698d-4c64-ab85-c8d5308505d2</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Shipment/ShipmentCreationAndValidationInDB</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>7a5bfe6c-9291-4223-bc5a-d52cfae2163a</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Data2</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>7a5bfe6c-9291-4223-bc5a-d52cfae2163a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Shipment_Number</value>
+         <variableId>4ce86715-4d77-42bb-a847-42938aedbfb5</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>7a5bfe6c-9291-4223-bc5a-d52cfae2163a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>BOL_Number</value>
+         <variableId>0fba679d-ae85-40d6-bf04-3c6fa0171cc8</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>7a5bfe6c-9291-4223-bc5a-d52cfae2163a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Booking_Number</value>
+         <variableId>7e9e8b4c-c7e1-47f4-b48d-4b8a40a11757</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>7a5bfe6c-9291-4223-bc5a-d52cfae2163a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Container_Number</value>
+         <variableId>d586893c-70df-405f-bdf8-b017aea82ad0</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
